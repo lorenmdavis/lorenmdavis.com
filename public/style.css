@@ -97,12 +97,8 @@ background: url(social.png) 0 0 no-repeat;
 height:31px;
 display:block;
 margin:15px 0 0 0;
-
 }
 
-.social:hover {
-background-position: 0 -31px;
-}
 
 p{margin:0 0 10px 0;}
 
