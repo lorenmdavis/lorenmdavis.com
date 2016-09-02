@@ -17,8 +17,10 @@ body {
 header h1{
 	background-color: rgba(89,164,170,1);
 	text-align: center;
-	line-height: 75px;
+	line-height: 60px;
 	color: white;
+	font-weight: lighter;
+	letter-spacing: 1px;
 }
 /**Left Side**/
 div:first-of-type{
@@ -36,7 +38,7 @@ aside {
 		width:30%;
 		height:600px;
 		min-width: 250px;
-		background:rgba(244,242,184,0.9);
+		background:rgba(244,242,184,1);
 	  float:left;
 		padding: 10px;
 		box-sizing: border-box;
@@ -63,12 +65,13 @@ article{
 	box-sizing: border-box;
 }
 h2{
-	background-color: rgba(239,105,85,0.8);
+	background-color: rgba(239,105,85,1);
 	color:white;
 	text-align: center;
 	padding:5px;
 	margin: 0 0 10px 0;
 	width:100%;
+	font-weight: 300;
 }
 h2 p {
 	margin:1em;
